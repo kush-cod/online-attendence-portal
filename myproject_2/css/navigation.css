@@ -1,0 +1,6 @@
+.point{
+	cursor: pointer;
+}
+.background , .dropdown-menu{
+	background-image: linear-gradient( rgba(192, 0, 0, 0.856), #000000dc);
+}
